@@ -3,8 +3,6 @@
 # Script : Self'Host
 # Developer: RAW A.K.A Jasht'sSerie
 # Website   : hitechlinux.com
-# Date: 08.05.2016
-# Last Updated: 28.05.2016
 # ******************************************
 #Dir's.
 confdir="/etc/apache2/sites-available"
