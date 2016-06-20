@@ -31,5 +31,4 @@ then
        service apache2 restart
        echo "Apache, Mysql, Php, Is Installed On Your System"
        echo "If you want to start with Virtual Host Creator Please Execute sudo ./vh.sh yourdomain.com"
-      echo "For more easy tricks please visit my website http://hitechlinux.com/ "
 fi
