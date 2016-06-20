@@ -1,6 +1,8 @@
 # Apache Virtual Hosts.
 AutoInstaller/Autocreator, Mysql, Apache2, PHP, Domain Creator, Autoconfigure Virtualhosts.!
 
+Distro Supported : ``Ubuntu 14.04, Debian 7, Zorin OS 11.``
+
 1. Copy Project.
 
    $ `apt-get install git`
