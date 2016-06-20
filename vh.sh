@@ -2,7 +2,6 @@
 # ******************************************
 # Script : Self'Host
 # Developer: RAW A.K.A Jasht'sSerie
-# Website   : hitechlinux.com
 # ******************************************
 #Dir's.
 confdir="/etc/apache2/sites-available"
