@@ -25,4 +25,4 @@ Distro Supported : ``Ubuntu 14.04, Debian 7, Zorin OS 11.``
 
    $ `./wordpress.sh yourdomain.com`
 
-For more You can see this doc, http://hitechlinux.nl/scripts/apache-virtual-hosts-autocreator-bash-script/
+
